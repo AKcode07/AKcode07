@@ -59,7 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AKcode07/AKcode07/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AKcode07/AKcode07/output/github-contribution-grid-snake.svg" />
 
 ###
 
