@@ -26,9 +26,9 @@ jobs:
       - name: Commit files
         uses: github-actions-x/commit@v2.7
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: master
+          force-add: true
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
