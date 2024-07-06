@@ -59,7 +59,7 @@
 
 ###
 
-![snake gif](https://github.com/AKcode07/AKcode07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AKcode07/AKcode07/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
