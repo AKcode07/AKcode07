@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Ashwin Kumavat from Nashik, Maharashtra.<br><br>- 🔭  I’m a final year Engineering student @IIITR<br>- 📚 I'm Backend Developer<br>- ⚡ Let's learn and grow together!</p>
+<p align="left">I'm Ashwin Kumavat from Nashik, Maharashtra.<br><br>- 🔭  I’m a final year Engineering student @IIITR<br>- 📚 I'm MERN stack Developer<br>- ⚡ Let's learn and grow together!</p>
 
 ###
 
